@@ -34,3 +34,7 @@ fi
 # if [ -d "${HOME}/info" ]; then
 #   INFOPATH="${HOME}/info:${INFOPATH}"
 # fi
+
+# Custom settings
+alias python='python2'
+
